@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tunanfeiyu,i'm from China.
+- 👋 Hi, I’m @Tunanfeiyu.I'm from China.
 - 🌱 I’m currently learning front-end.
 - 📫 If you need to, you can email me(zrd-tunan@qq.com)
 
